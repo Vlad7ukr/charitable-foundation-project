@@ -1,0 +1,17 @@
+# ===== Vue (frontend) =====
+node_modules/
+dist/
+.env
+
+# ===== Java Spring Boot (backend) =====
+target/
+*.log
+*.class
+
+# ===== IDEs =====
+.idea/
+*.iml
+
+# ===== OS-specific =====
+.DS_Store
+Thumbs.db
